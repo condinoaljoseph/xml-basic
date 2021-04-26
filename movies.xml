@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<movies>
+
+    <movie>
+        <movieCode>#000001</movieCode>
+        <title>Iron Man 1</title>
+        <directors>
+            <director>Jon Fabreau</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>War</genre>
+            <genre>Super Hero</genre>
+            <genre>Sci Fi</genre>
+        </genres>
+        <dateOfRelease>2008-04-08</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000002</movieCode>
+        <title>Iron Man 2</title>
+        <directors>
+            <director>Jon Fabreau</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>War</genre>
+            <genre>Super Hero</genre>
+            <genre>Sci Fi</genre>
+        </genres>
+        <dateOfRelease>2013-04-28</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000003</movieCode>
+        <title>Kingkong</title>
+        <directors>
+            <director>Peter Jackson</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Romance</genre>
+            <genre>Monster</genre>
+        </genres>
+        <dateOfRelease>2015-12-14</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000004</movieCode>
+        <title>Spiderman 1</title>
+        <directors>
+            <director>Sam Raimi</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre>
+            <genre>Adventure</genre>
+            <genre>Fantacy</genre>
+        </genres>
+        <dateOfRelease>2002-04-30</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000005</movieCode>
+        <title>Spiderman 2</title>
+        <directors>
+            <director>Sam Raimi</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre>
+            <genre>Adventure</genre>
+            <genre>Fantacy</genre>
+        </genres>
+        <dateOfRelease>2003-06-30</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000006</movieCode>
+        <title>Spiderman 3</title>
+        <directors>
+            <director>Sam Raimi</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre>
+            <genre>Adventure</genre>
+            <genre>Fantacy</genre>
+        </genres>
+        <dateOfRelease>20017-06-28</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000007</movieCode>
+        <title>Avengers 1</title>
+        <directors>
+            <director>Joss Whedon</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre> 
+            <genre>adventure</genre>
+            <genre>Fantacy</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <dateOfRelease>2013-04-18</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000008</movieCode>
+        <title>Avengers 2</title>
+        <directors>
+            <director>Joss Whedon</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre> 
+            <genre>adventure</genre>
+            <genre>Fantacy</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <dateOfRelease>2015-04-22</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000009</movieCode>
+        <title>Avengers 3 Infinity War</title>
+        <directors>
+            <director>Joe Russo</director>
+            <director>Anthony Russo</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre> 
+            <genre>adventure</genre>
+            <genre>Fantacy</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <dateOfRelease>2018-04-24</dateOfRelease>
+    </movie>
+
+    <movie>
+        <movieCode>#000010</movieCode>
+        <title>Avengers 4 End Game</title>
+        <directors>
+            <director>Joe Russo</director>
+            <director>Anthony Russo</director>
+        </directors>
+        <genres>
+            <genre>Action</genre>
+            <genre>Super Hero</genre> 
+            <genre>adventure</genre>
+            <genre>Fantacy</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <dateOfRelease>2019-04-22</dateOfRelease>
+    </movie>
+
+</movies>
